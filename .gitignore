@@ -1,0 +1,33 @@
+# --- Artefactos de compilación ---
+out/
+bin/
+build/
+target/
+*.class
+*.jar
+
+# --- IntelliJ IDEA ---
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# --- VS Code / Antigravity ---
+.vscode/
+.antigravity/
+
+# --- Eclipse ---
+.classpath
+.project
+.settings/
+
+# --- Sistema operativo ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Logs y temporales ---
+*.log
+hs_err_pid*
+*.tmp
+*~
